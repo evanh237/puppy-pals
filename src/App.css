@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.pup-details {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.App {
+  cursor: pointer;
+  background-color: aquamarine;
+  font-family: fantasy; /* <-- this is the worst possible font, mostly here as a joke!*/
+}
